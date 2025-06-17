@@ -117,3 +117,19 @@ header .content .cont_bx button{
 header .content .cont_bx button:hover{
     background: rgb(96, 94, 94);
 }
+
+header .trip_bx{
+    position: relative;
+    width:95%;
+    height: auto;
+    margin: auto;
+    border: 1px solid black;     
+}
+
+header .trip_bx .scarch_bx{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 60%;
+    height:60px;
+}
